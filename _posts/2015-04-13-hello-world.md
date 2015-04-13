@@ -7,7 +7,7 @@ title: Readme Driven Development
 ================
 
 
-# Hello World
+# Hello World.
 
 ## This is a test.
 
