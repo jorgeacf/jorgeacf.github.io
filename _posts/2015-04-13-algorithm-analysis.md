@@ -1,3 +1,8 @@
+---
+layout: post
+title: Algorithm analysis
+---
+
 ## Introduction
 
 An algorithm can be described as a set of computational instructions that receives a input in a form of a value or a set of values and returns or produces a output also as a value or a set of values.
