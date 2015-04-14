@@ -43,3 +43,5 @@ It’s important do define what we should measure if we need to predict the perf
 ## Summary of order of growth of algorithms
 
 The figure below summarises the order of growths that we discussed in this post:
+
+
