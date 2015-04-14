@@ -46,7 +46,7 @@
 
   <body>
     <div id="wrap">
-      <nav class="navbar navbar-default" role="navigation" style="width:1140px;margin:auto;">
+      <nav class="navbar navbar-default" role="navigation" style="width:1200px;margin:auto;">
         <!-- Brand and toggle get grouped for better mobile display -->
         <div class="navbar-header">
           <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#jb-navbar-collapse">
@@ -55,7 +55,7 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="navbar-brand" href="{{ HOME_PATH }}">{{ site.title }}</a>
+          <!--<a class="navbar-brand" href="{{ HOME_PATH }}">{{ site.title }}</a>-->
         </div>
 
         <!-- Collect the nav links, forms, and other content for toggling -->
@@ -65,6 +65,12 @@
             {% assign group = 'navigation' %}
             {% include JB/pages_list %}
           </ul>
+
+            <div class="navbar-header navbar-right">
+
+                <p class="text-right" style="margin:0 0 0 0;padding:0;"><a style="font-size:xx-large;margin:0;padding:0;" href="{{ HOME_PATH }}">{{ site.title }}</a></p>
+                <p style="font-size:smaller;margin:0 0 1px 0;padding:0;">Computer Science, Cloud, Big Data and Machine Learning</p>
+            </div>
 	
 	<!--
           <form class="navbar-form navbar-right" role="search">
@@ -85,7 +91,7 @@
 
     <div id="footer" style="background-color:white;">
       <div class="container">
-        <p>&copy; {{ site.time | date: '%Y' }} {{ site.author.name }}</p>
+        <p class="text-center">&copy; {{ site.time | date: '%Y' }} {{ site.author.name }}</p>
       </div>
     </div>
 

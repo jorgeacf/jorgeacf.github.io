@@ -1,15 +1,15 @@
 ---
 layout: post
 title: Algorithm analysis
+excerpt_separator: <!--more-->
 ---
 
+In this blog post I will write about the analysis of the cost in terms of memory and processor resources cost.
+ 
+<!--more-->
+
 ## Introduction
-
-An algorithm can be described as a set of computational instructions that receives a input in a form of a value or a set of values and returns or produces a output also as a value or a set of values.
-
- 
-
- 
+An algorithm can be described as a set of computational instructions that receives a input in a form of a value or a set of values and returns or produces a output also as a value or a set of values. 
 
 ## What should we take in consideration to define a performance of an algorithm?
 
@@ -17,7 +17,7 @@ It’s important do define what we should measure if we need to predict the perf
 
  
 
-##Order of growth of algorithms
+## Order of growth of algorithms
 
  
 
