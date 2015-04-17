@@ -8,16 +8,16 @@ In this blog post I will write about the analysis of the cost in terms of memory
  
 <!--more-->
 
-## Introduction
+### Introduction
 An algorithm can be described as a set of computational instructions that receives a input in a form of a value or a set of values and returns or produces a output also as a value or a set of values. 
 
-## What should we take in consideration to define a performance of an algorithm?
+### What should we take in consideration to define a performance of an algorithm?
 
 It’s important do define what we should measure if we need to predict the performance of the algorithm with different input values
 
  
 
-## Order of growth of algorithms
+### Algorithms order of growth
 
  
 
@@ -36,12 +36,21 @@ It’s important do define what we should measure if we need to predict the perf
 **Exponential**: An exponential order of growth is the worst in terms of scalability because the cost of the algorithm increases exponentially with the size of the input. Typically the algorithms to check all the subsets have this cost. 
  
 
-## Worst-case and average-case analysis
+### Worst-case, best-case and average-case analysis
 
  
 
-## Summary of order of growth of algorithms
+### Summary of order of growth of algorithms
 
 The figure below summarises the order of growths that we discussed in this post:
 
+|Order of growth|Name			|Code Example						|Description|Example|
+|:-------------:|---------------|-----------------------------------|-----------|-------|
+|$$1$$			|constant		| ```a = b + c;```					|statement|add two numbers|
+|$$logN$$ 		|logarithmic	| ```while(N > 1) { N = N / 2; ... }``` 	| divide in half | binary search|
+|$$N$$			|linear			| ```for(int i = 0; i < N; i++) { ... }```	|loop|find the maximum|
+|$$N log N$$	|linearithmic	| ```for(int i = 0; i < N; i++) for(int j = 0; j < N; j++) { ... } ```								|divide and conquer|mergesort|
+|$$N^2$$		|quadratic		|...								|double loop|check all pairs|
+|$$N^3$$		|cubic			|...								|triple loop|check all triples|
+|$$2^N$$		|exponential	|...								|exhaustive search|check all subsets|
 

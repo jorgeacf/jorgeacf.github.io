@@ -77,3 +77,24 @@ h1, h2, h3, h4 {
   background: #57A957;
   border: 1px solid #4c964d;
   color: #FFF; }
+
+
+table {
+
+    
+}
+
+.content table th, .content table td {
+    
+    padding: 3px 6px 3px 6px;
+    border: solid 1px silver;
+}
+
+.content table td {
+
+}
+
+.content table th {
+
+    text-align: center;
+}

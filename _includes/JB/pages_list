@@ -20,6 +20,35 @@ Usage:
   This helper can be seen in use at: ../_layouts/default.html
 -->{% endcomment %}
 
+{% if page.url == "/index.html" %}
+      	<li class="active"> <a href="/" class="active">Home</a> </li>
+{% else %}
+      	<li> <a href="/">Home</a> </li>
+{% endif %}
+
+
+{% if page.url == "/archive.html" %}
+      	<li class="active"> <a href="/archive.html" class="active">Archive</a> </li>
+{% else %}
+      	<li> <a href="/archive.html">Archive</a> </li>
+{% endif %}
+
+
+{% if page.url == "/about/index.html" %}
+      	<li class="active"> <a href="/about/index.html" class="active">About</a> </li>
+{% else %}
+      	<li> <a href="/about/index.html">About</a> </li>
+{% endif %}
+
+
+{% if page.url == "/contact/index.html" %}
+      	<li class="active"> <a href="/contact/index.html" class="active">Contact</a> </li>
+{% else %}
+      	<li> <a href="/contact/index.html">Contact</a> </li>
+{% endif %}
+
+
+<!--
 {% if site.JB.pages_list.provider == "custom" %}
   {% include custom/pages_list %}
 {% else %}
@@ -37,3 +66,4 @@ Usage:
 {% endif %}
 {% assign pages_list = nil %}
 {% assign group = nil %}
+-->
