@@ -1,18 +1,15 @@
-# This is the default format. 
-# For more see: https://github.com/mojombo/jekyll/wiki/Permalinks
-permalink: /:categories/:year/:month/:day/:title 
-auto: true
-pygments: true
-var:
-  archive_path: /archive.html
-  categories_path : /categories.html
-  tags_path : /tags.html
+# Site settings
+title: Jorge Figueiredo
+email: blog@jorgefigueiredo.com
+description: > # this means to ignore newlines until "baseurl:"
+  Computer Science, Big Data, Cloud and Machine Learning
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://www.jorgefigueiredo.com" # the base hostname & protocol for your site
+twitter_username: jorgeacf
+github_username:  jorgeacf
 
-production_url : http://username.github.com # or your custom domain name
-title : My Blog =)
+# Build settings
+markdown: kramdown
 
-author :
-  name : Name Lastname
-  email : blah@email.test
-  github : username
-  twitter : username
+#highlighter: pygments # pygments or rouge
+

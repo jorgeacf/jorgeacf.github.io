@@ -1,4 +1,25 @@
----
----
-{% assign theme_asset_path = "/assets/themes/tom" %}
-{% include themes/tom/default.html %}
+<!DOCTYPE html>
+<html prefix="og: http://ogp.me/ns#">
+
+  {% include head.html %}
+
+  <body>
+
+    {% include header.html %}
+
+    <div class="page-content">
+      <div class="wrapper">
+        
+          {{ content }}
+	
+	       {% include comments.html %}
+       </div>
+    </div>
+
+    {% include footer.html %}
+    
+  </body>
+
+  {% include google_analytics.html %}
+
+</html>

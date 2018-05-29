@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jorge Figueiredo</title>
+    <description>Computer Science, Big Data, Cloud and Machine Learning
+</description>
+    <link>http://yourdomain.com/</link>
+    <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 17 Apr 2015 18:43:52 +0100</pubDate>
+    <lastBuildDate>Fri, 17 Apr 2015 18:43:52 +0100</lastBuildDate>
+    <generator>Jekyll v2.5.2</generator>
+    
+      <item>
+        <title>Welcome to Jekyll!</title>
+        <description>&lt;p&gt;You’ll find this post in your &lt;code&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+
+&lt;p&gt;To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+
+&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;Tom&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints &amp;#39;Hi, Tom&amp;#39; to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://github.com/jekyll/jekyll-help&quot;&gt;Jekyll’s dedicated Help repository&lt;/a&gt;.&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 17 Apr 2015 13:40:50 +0100</pubDate>
+        <link>http://yourdomain.com/jekyll/update/2015/04/17/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/jekyll/update/2015/04/17/welcome-to-jekyll.html</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
+    
+      <item>
+        <title>Basic Maths For Computer Science</title>
+        <description>
+</description>
+        <pubDate>Mon, 09 Feb 2015 00:00:00 +0000</pubDate>
+        <link>http://yourdomain.com/2015/02/09/basic-maths-for-computer-science.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/2015/02/09/basic-maths-for-computer-science.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Elementary Graph Algorithms</title>
+        <description>
+</description>
+        <pubDate>Fri, 30 Jan 2015 00:00:00 +0000</pubDate>
+        <link>http://yourdomain.com/2015/01/30/elementary-graph-algorithms.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/2015/01/30/elementary-graph-algorithms.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Basic Sorting Algorithms</title>
+        <description>&lt;p&gt;This post talks about the basic sorting algorithms.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;This is the post content…&lt;/p&gt;
+</description>
+        <pubDate>Sun, 18 Jan 2015 00:00:00 +0000</pubDate>
+        <link>http://yourdomain.com/back%20to%20basics/2015/01/18/basic-sorting-algorithms.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/back%20to%20basics/2015/01/18/basic-sorting-algorithms.html</guid>
+        
+        
+        <category>back to basics</category>
+        
+      </item>
+    
+      <item>
+        <title>Elementary Data Structures</title>
+        <description>&lt;p&gt;The fundamental data structures is something that all computer scientists and engineers should know very well.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;h3 id=&quot;arrays&quot;&gt;Arrays&lt;/h3&gt;
+
+&lt;p&gt;An array is a data structure that consists in a collection of elements each one identified by a key or index. The size of the array is specified in is initialization and is immutable.&lt;/p&gt;
+
+&lt;p&gt;The elements in an array are stored in a way that makes it possible to calculate each element position in memory. e.g. If a integer array of 10 elements starts at&lt;/p&gt;
+
+&lt;h3 id=&quot;linked-lists&quot;&gt;Linked Lists&lt;/h3&gt;
+
+&lt;p&gt;A Linked List is a data dynamic data structure to store a collection of elements that is size and consequently&lt;/p&gt;
+
+&lt;h3 id=&quot;stacks-and-queues&quot;&gt;Stacks and Queues&lt;/h3&gt;
+
+&lt;h3 id=&quot;hash-tables&quot;&gt;Hash Tables&lt;/h3&gt;
+
+</description>
+        <pubDate>Tue, 13 Jan 2015 00:00:00 +0000</pubDate>
+        <link>http://yourdomain.com/2015/01/13/elementary-data-structures.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/2015/01/13/elementary-data-structures.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Algorithm analysis</title>
+        <description>&lt;p&gt;In this blog post I will write about the analysis of the cost in terms of memory and processor resources cost.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;h3 id=&quot;introduction&quot;&gt;Introduction&lt;/h3&gt;
+&lt;p&gt;An algorithm can be described as a set of computational instructions that receives a input in a form of a value or a set of values and returns or produces a output also as a value or a set of values. &lt;/p&gt;
+
+&lt;h3 id=&quot;what-should-we-take-in-consideration-to-define-a-performance-of-an-algorithm&quot;&gt;What should we take in consideration to define a performance of an algorithm?&lt;/h3&gt;
+
+&lt;p&gt;It’s important do define what we should measure if we need to predict the performance of the algorithm with different input values&lt;/p&gt;
+
+&lt;h3 id=&quot;algorithms-order-of-growth&quot;&gt;Algorithms order of growth&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;Constant&lt;/strong&gt;: Having a constant order of growth means that independently of the size of the algorithm input the time to execute will be always the same. For instance the instruction int i = 0; will always take the same time to complete.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Logarithmic&lt;/strong&gt;: A logarithmic order of growth is typically when the algorithm divides the input in half.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Linear&lt;/strong&gt;: A linear order of growth is when the algorithm loop through all the elements of the output.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Linearithmic&lt;/strong&gt;:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Quadratic&lt;/strong&gt;: A quadratic order of growth is when the algorithm have a double loop.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Cubic&lt;/strong&gt;: A cubic order of growth is when the algorithm have a triple loop.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Exponential&lt;/strong&gt;: An exponential order of growth is the worst in terms of scalability because the cost of the algorithm increases exponentially with the size of the input. Typically the algorithms to check all the subsets have this cost. &lt;/p&gt;
+
+&lt;h3 id=&quot;worst-case-best-case-and-average-case-analysis&quot;&gt;Worst-case, best-case and average-case analysis&lt;/h3&gt;
+
+&lt;h3 id=&quot;summary-of-order-of-growth-of-algorithms&quot;&gt;Summary of order of growth of algorithms&lt;/h3&gt;
+
+&lt;p&gt;The figure below summarises the order of growths that we discussed in this post:&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Order of growth&lt;/th&gt;
+      &lt;th&gt;Name&lt;/th&gt;
+      &lt;th&gt;Code Example&lt;/th&gt;
+      &lt;th&gt;Description&lt;/th&gt;
+      &lt;th&gt;Example&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;script type=&quot;math/tex&quot;&gt;1&lt;/script&gt;&lt;/td&gt;
+      &lt;td&gt;constant&lt;/td&gt;
+      &lt;td&gt;&lt;code&gt;a = b + c;&lt;/code&gt;&lt;/td&gt;
+      &lt;td&gt;statement&lt;/td&gt;
+      &lt;td&gt;add two numbers&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;script type=&quot;math/tex&quot;&gt;logN&lt;/script&gt;&lt;/td&gt;
+      &lt;td&gt;logarithmic&lt;/td&gt;
+      &lt;td&gt;&lt;code&gt;while(N &amp;gt; 1) { N = N / 2; ... }&lt;/code&gt;&lt;/td&gt;
+      &lt;td&gt;divide in half&lt;/td&gt;
+      &lt;td&gt;binary search&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;script type=&quot;math/tex&quot;&gt;N&lt;/script&gt;&lt;/td&gt;
+      &lt;td&gt;linear&lt;/td&gt;
+      &lt;td&gt;&lt;code&gt;for(int i = 0; i &amp;lt; N; i++) { ... }&lt;/code&gt;&lt;/td&gt;
+      &lt;td&gt;loop&lt;/td&gt;
+      &lt;td&gt;find the maximum&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;script type=&quot;math/tex&quot;&gt;N log N&lt;/script&gt;&lt;/td&gt;
+      &lt;td&gt;linearithmic&lt;/td&gt;
+      &lt;td&gt;&lt;code&gt;for(int i = 0; i &amp;lt; N; i++) for(int j = 0; j &amp;lt; N; j++) { ... }&lt;/code&gt;&lt;/td&gt;
+      &lt;td&gt;divide and conquer&lt;/td&gt;
+      &lt;td&gt;mergesort&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;script type=&quot;math/tex&quot;&gt;N^2&lt;/script&gt;&lt;/td&gt;
+      &lt;td&gt;quadratic&lt;/td&gt;
+      &lt;td&gt;…&lt;/td&gt;
+      &lt;td&gt;double loop&lt;/td&gt;
+      &lt;td&gt;check all pairs&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;script type=&quot;math/tex&quot;&gt;N^3&lt;/script&gt;&lt;/td&gt;
+      &lt;td&gt;cubic&lt;/td&gt;
+      &lt;td&gt;…&lt;/td&gt;
+      &lt;td&gt;triple loop&lt;/td&gt;
+      &lt;td&gt;check all triples&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;script type=&quot;math/tex&quot;&gt;2^N&lt;/script&gt;&lt;/td&gt;
+      &lt;td&gt;exponential&lt;/td&gt;
+      &lt;td&gt;…&lt;/td&gt;
+      &lt;td&gt;exhaustive search&lt;/td&gt;
+      &lt;td&gt;check all subsets&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+</description>
+        <pubDate>Sat, 03 Jan 2015 00:00:00 +0000</pubDate>
+        <link>http://yourdomain.com/2015/01/03/analysis-of-algorithms-computational-cost.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/2015/01/03/analysis-of-algorithms-computational-cost.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Hello World Post</title>
+        <description>&lt;p&gt;Hi there. My name is Jorge. This is my first blog post. &lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;I intend to be posting very often here is the following times specially regarding Big Data and Machine learning.&lt;/p&gt;
+
+&lt;p&gt;This is something that I’ve been planning for quite a long time, however it never came to something real until now.&lt;/p&gt;
+
+&lt;p&gt;The main reason to start blogging more often is a way to revisited some basic concepts of computer science that are not fresh in my mind but also to study new concepts and technologies especially the ones related with Big Data and Machine Learning.&lt;/p&gt;
+
+&lt;p&gt;Stay tuned.&lt;/p&gt;
+
+&lt;p&gt;Jorge &lt;/p&gt;
+</description>
+        <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+        <link>http://yourdomain.com/hello%20world/back%20to%20basics/2015/01/01/hello-world.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/hello%20world/back%20to%20basics/2015/01/01/hello-world.html</guid>
+        
+        
+        <category>hello world</category>
+        
+        <category>back to basics</category>
+        
+      </item>
+    
+  </channel>
+</rss>
