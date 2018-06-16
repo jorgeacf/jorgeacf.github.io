@@ -47,7 +47,7 @@ Hi, my name is Jorge. I live in East London where I'm Senior Enginering Manager.
 ----
 #### Shorter Personal Biography (250 characters)
 
-My name is Jorge. I live in East London where I'm Senior Engineering Manager. In my personal time I like to spend time with my family, read amazing books, watch movies, listen to music, cook delicious Portuguese dishes, blog and write software.
+My name is **Jorge**. I live in East London where I'm Senior Engineering Manager. In my personal time I like to spend time with my family, read amazing books, watch movies, listen to music, cook delicious Portuguese dishes, blog and write software.
 
 ----
 #### Shortest Personal Biography (140 characters)
