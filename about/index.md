@@ -24,3 +24,19 @@ When I'm not with my hands on a computer keyboard I have two main hobbies:
 
 * Electronics currently with focus on the Raspberry Pi and Arduino. 
 * Everything that flies and by that I mean drones, radio-controlled air-planes and ultra-light air-planes.
+
+----
+### Professional Biography
+
+### Short Professional Biography
+
+### Shorter Professional Biography (300 characters)
+
+### Shortest Professional Biography (140 characters)
+
+----
+### Short Personal Biography
+
+### Shorter Personal Biography (250 characters)
+
+## Shortest Personal Biography (140 characters)
