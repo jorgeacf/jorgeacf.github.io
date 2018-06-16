@@ -50,5 +50,6 @@ Hi, my name is Jorge. I live in East London where I'm Senior Enginering Manager.
 ----
 #### Shortest Personal Biography (140 characters)
 
-Software Engineer, 1985, Portugal, Tech, Code, Web, Cloud, All things that fly, Music, Electronics. 
+Software Engineer, 1985, Portugal, Tech, Code, Web, Cloud, All things that fly, Music, Electronics.
+
 ----
