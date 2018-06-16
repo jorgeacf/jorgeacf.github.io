@@ -23,7 +23,7 @@ I have a keen interest to learn as much as I can related with the Hadoop Ecosyst
 When I'm not with my hands on a computer keyboard I have two main hobbies:
 
 * Electronics currently with focus on the Raspberry Pi and Arduino. 
-* Everything that flies and by that I mean drones, radio-controlled air-planes and ultra-light air-planes.
+* Everything that flies and by that I mean drones, radio-controlled airplanes and ultra-light airplanes.
 
 ----
 #### Professional Biography
@@ -46,6 +46,8 @@ Hi, my name is Jorge. I live in East London where I'm Senior Enginering Manager.
 
 ----
 #### Shorter Personal Biography (250 characters)
+
+My name is Jorge. I live in East London where I'm Senior Engineering Manager. In my personal time I like to spend time with my family, read amazing books, watch movies, listen to music, cook delicious Portuguese dishes, blog and write software.
 
 ----
 #### Shortest Personal Biography (140 characters)
