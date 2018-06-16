@@ -39,4 +39,4 @@ When I'm not with my hands on a computer keyboard I have two main hobbies:
 
 ### Shorter Personal Biography (250 characters)
 
-## Shortest Personal Biography (140 characters)
+### Shortest Personal Biography (140 characters)
