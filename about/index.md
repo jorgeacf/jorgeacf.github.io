@@ -30,10 +30,13 @@ When I'm not with my hands on a computer keyboard I have two main hobbies:
 
 **Jorge Figueiredo** is a software engineering leader 
 
+----
 #### Short Professional Biography
 
+----
 #### Shorter Professional Biography (300 characters)
 
+----
 #### Shortest Professional Biography (140 characters)
 
 ----
@@ -41,8 +44,11 @@ When I'm not with my hands on a computer keyboard I have two main hobbies:
 
 Hi, my name is Jorge. I live in East London where I'm Senior Enginering Manager. 
 
+----
 #### Shorter Personal Biography (250 characters)
 
+----
 #### Shortest Personal Biography (140 characters)
 
 Software Engineer, 1985, Portugal, Tech, Code, Web, Cloud, All things that fly, Music, Electronics. 
+----
