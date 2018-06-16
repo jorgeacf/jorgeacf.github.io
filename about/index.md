@@ -1,10 +1,10 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 ---
 
-## Hi! I'm Jorge.
+### Hi! I'm Jorge.
 
 <img src="/assets/img/me.jpg" style="float:left;margin:0 15px 0 0;" />
 
@@ -26,17 +26,17 @@ When I'm not with my hands on a computer keyboard I have two main hobbies:
 * Everything that flies and by that I mean drones, radio-controlled air-planes and ultra-light air-planes.
 
 ----
-### Professional Biography
+#### Professional Biography
 
-### Short Professional Biography
+#### Short Professional Biography
 
-### Shorter Professional Biography (300 characters)
+#### Shorter Professional Biography (300 characters)
 
-### Shortest Professional Biography (140 characters)
+#### Shortest Professional Biography (140 characters)
 
 ----
-### Short Personal Biography
+#### Short Personal Biography
 
-### Shorter Personal Biography (250 characters)
+#### Shorter Personal Biography (250 characters)
 
-### Shortest Personal Biography (140 characters)
+#### Shortest Personal Biography (140 characters)
