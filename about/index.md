@@ -24,3 +24,7 @@ When I'm not with my hands on a computer keyboard I have two main hobbies:
 
 * Electronics currently with focus on the Raspberry Pi and Arduino. 
 * Everything that flies and by that I mean drones, radio-controlled airplanes and ultra-light airplanes.
+
+<!--
+<div class="LI-profile-badge"  data-version="v1" data-size="large" data-locale="en_US" data-type="horizontal" data-theme="light" data-vanity="jorgeacf"><a class="LI-simple-link" href='https://uk.linkedin.com/in/jorgeacf?trk=profile-badge'>Jorge Figueiredo</a></div>
+-->
