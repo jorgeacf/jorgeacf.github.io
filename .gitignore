@@ -1,3 +1,5 @@
 _site
 .sass-cache
 *.cmd
+.jekyll-cache
+.jekyll-metadata
