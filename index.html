@@ -2,22 +2,40 @@
 layout: default
 ---
 
-<div class="home">
+  <div class="home" style="float: left; width: 75%; margin-right: 5%;">
 
-  <h1 class="page-heading">Last Posts</h1>
+    <h1 class="page-heading">Lastest blog posts</h1>
 
-  <ul class="post-list">
-    {% for post in site.posts limit:5 %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+    <ul class="post-list">
+      {% for post in site.posts %}
+        <li>
+          <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
 
-        <h2 style="margin-bottom:0;">
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-	{{ post.excerpt }}
+          <h2 style="margin-bottom:0;">
+            <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+          </h2>
+         {{ post.excerpt }}
+          <p class="post-meta">{{ post.categories | join: ', ' }}</p>
+        </li>
+      {% endfor %}
+    </ul>
 
-      </li>
-    {% endfor %}
-  </ul>
+  </div>
 
-</div>
+  <div style="float: left; width: 20%;">
+
+    <h3 class="page-heading">Categories</h3>
+    <ul style="list-style: none;">
+      {% assign categories_list = site.categories %}
+        {% if categories_list.first[0] == null %}
+          {% for category in categories_list %}
+            <li><a href="#{{ category | downcase | downcase | url_escape | strip | replace: ' ', '-' }}">{{ category | camelcase }} ({{ site.tags[category].size }})</a></li>
+          {% endfor %}
+        {% else %}
+          {% for category in categories_list %}
+            <li><a href="#{{ category[0] | downcase | url_escape | strip | replace: ' ', '-' }}">{{ category[0] | camelcase }} ({{ category[1].size }})</a></li>
+          {% endfor %}
+        {% endif %}
+      {% assign categories_list = nil %}
+      </ul>
+  </div>

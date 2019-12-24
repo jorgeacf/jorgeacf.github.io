@@ -2,7 +2,7 @@
 layout: post
 title: Hello World post
 author: Jorge Figueiredo
-categories: [Hello World, Back to basics]
+categories: [Hello World, Back to basics, Conferences]
 excerpt_separator: <!--more-->
 ---
 
