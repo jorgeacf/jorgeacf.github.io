@@ -24,34 +24,3 @@ When I'm not with my hands on a computer keyboard I have two main hobbies:
 
 * Electronics currently with focus on the Raspberry Pi and Arduino. 
 * Everything that flies and by that I mean drones, radio-controlled airplanes and ultra-light airplanes.
-
-----
-#### Professional Biography
-
-**Jorge Figueiredo** is a software engineering leader 
-
-----
-#### Short Professional Biography
-
-----
-#### Shorter Professional Biography (300 characters)
-
-----
-#### Shortest Professional Biography (140 characters)
-
-----
-#### Short Personal Biography
-
-Hi, my name is Jorge. I live in East London where I'm Senior Enginering Manager. 
-
-----
-#### Shorter Personal Biography (250 characters)
-
-My name is **Jorge**. I live in East London where I'm Senior Engineering Manager. In my personal time I like to spend time with my family, read amazing books, watch movies, listen to music, cook delicious Portuguese dishes, blog and write software.
-
-----
-#### Shortest Personal Biography (140 characters)
-
-Software Engineer, 1985, Portugal, Tech, Code, Web, Cloud, All things that fly, Music, Electronics.
-
-----
